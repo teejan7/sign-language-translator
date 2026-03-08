@@ -154,12 +154,3 @@ numpy
 ```
 
 ---
-
-## 👥 Team
-
-| Name | Roll Number |
-|------|-------------|
-| Bebino Khesoh | LHGW23CS033 |
-| Bhagyalakshmi K B | SGI23CS021 |
-| Christina Raphel | LHGW23CS034 |
-| Teejan Teepee | LHGW23CS035 |
